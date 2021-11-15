@@ -124,9 +124,13 @@ Communication mapping is important in a team. The more everyone knows everything
 #### Rules for scrum meeting
 
 > The meeting has to occur at regurlar time interval everyday.
+> 
 > Everyone has to be there and be active.
+> 
 > Meetings couldn't last more than fifteen minutes.
+> 
 > The meeting seeks to get the most actionable values and information from the members in the least amount of time.
+> 
 > The meeting has to be with the same three questions everyday.
 
 &nbsp;
