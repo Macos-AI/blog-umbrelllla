@@ -74,7 +74,7 @@ We seek to acheive hyperproductivity as teams collaborate and work on a project.
 ###### **✨We can be better. We can be great. We just have to practice✨**
 
 
-
+CHAPTER THREE
 #### TEAMS 
 Focusing on individuals is a big mistake. Intuitively, we all would want to choose best individuals, but we can consider to choose best performers who get the job done in the shortest time possible and at the same time faster.
 Remember to look at teams, not individuals.
@@ -99,6 +99,7 @@ Transcendce, of course, is a critcal element but it is just one of the elements 
 Just as critical and least celebrated is the freedom to do your work the way you think is the best. Yes, there must be autonomy- one of the main concepts in scrum.
 (Getting to decide how you want to do your job to meet the goals set by those leading you)
 
+CHAPTER FOUR
 ### TIME 
 Time limits what we can do and what we can acheive as humans. We are bad at giving estimates for how long something is going to take. At the core of scrum is an idea practice known as Sprint.
 
@@ -135,7 +136,7 @@ Communication mapping is important in a team. The more everyone knows everything
 
 &nbsp;
 
-
+CHAPTER FIVE
 ### WASTE IS A CRIME 
 "Waste is a crime against society more than a business loss."-Unkown.
 At the heart of scrum is rythm. Humans are creatures of habit, we seek rythm.
