@@ -99,6 +99,39 @@ Transcendce, of course, is a critcal element but it is just one of the elements 
 Just as critical and least celebrated is the freedom to do your work the way you think is the best. Yes, there must be autonomy- one of the main concepts in scrum.
 (Getting to decide how you want to do your job to meet the goals set by those leading you)
 
+### TIME 
+Time limits what we can do and what we can acheive as humans. We are bad at giving estimates for how long something is going to take. At the core of scrum is an idea practice known as Sprint.
+
+###### SPRINT
+Sprint is a regular time interval where a working piece of a software product is worked on. At the end of the sprint there should be a working piece that can be used by a customer, not an architecture or something in the backend.
+The name given to this period of time when you are going to work all out and stop to see where you are was choosen because it evoked a quality of intensity. Sprints are often called time boxes. Each sprint comes with a set fo activities that has to be completed. Those set of activities are listed in a section of  a board called "Backlog". These are task to be taken  on for the duration of the sprint.
+The board consists of another section called "Doing". The "Doing" section has to do with all the tasks that are being worked on that week. When the tasks are completed a member fo the team moves the completed task to the "Done" section on the board.
+Once the team commits to what is going to be accomplished for that sprint the tasks are locked in.
+The memebr whose reposibilty is facilitate the meeting and the processes involved in moving the task from section to section is refered to as the scrum master.
+
+###### DAILY STAND-UP MEETING 
+There's suppose to be a daily stand-up meeting each day. The scrum master who facilitaes the process ask three questions: 
+>What were you able to acheive yesterday to help the team complete its task for the 
+sprint?
+>
+>What will you be able to acheive today to help the team complete its task for the sprint?
+>
+
+>What obstacles are getting into the teams way?
+
+Communication mapping is important in a team. The more everyone knows everything the faster the team moves. The factor that cripples commuincation saturation is specialization. When titles are used, everyone seeks to protect the power of that role and hold on to some specific knowledge. When this happens the team is doomed to fail for sure.
+
+#### Rules for scrum meeting
+
+> The meeting has to occur at regurlar time interval everyday.
+> Everyone has to be there and be active.
+> Meetings couldn't last more than fifteen minutes.
+> The meeting seeks to get the most actionable values and information from the members in the least amount of time.
+> The meeting has to be with the same three questions everyday.
+
+&nbsp;
+
+
 ### WASTE IS A CRIME 
 "Waste is a crime against society more than a business loss."-Unkown.
 At the heart of scrum is rythm. Humans are creatures of habit, we seek rythm.
