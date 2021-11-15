@@ -74,6 +74,59 @@ We seek to acheive hyperproductivity as teams collaborate and work on a project.
 ###### **✨We can be better. We can be great. We just have to practice✨**
 
 
+
+#### TEAMS 
+Focusing on individuals is a big mistake. Intuitively, we all would want to choose best individuals, but we can consider to choose best performers who get the job done in the shortest time possible and at the same time faster.
+Remember to look at teams, not individuals.
+"The New Product Development Game"-a book wrttten by Professor Takuechi and Nonaka. In this book, they describe some characteristics of teams in best perfoming companies.
+Below are the characteristics: 
+> Transcendence
+
+With transcendence, a team has a purpsoe beyond the ordinary. The very real way of having a decison that transforms them from the ordinary into the extraordinary. The decision not to become average, but great, change the way they view themselves and what they are capable of acheiving.
+
+> Autonomous
+
+Teams with autonomy are self-organising and self-managing. They have the freedom to choose how to get the job done - that is having the decision aout how to go about the job. They are empowered to make those decisions stick.
+
+> Cross-functionality
+
+With cross-functional teams, team must have all the necessary skills to get the job done. This skills feed and reinforce one another. As information avialable becomes everyboy's own at that moment. Cross-functionality will create communication saturation which will accelerate the team.
+With scrum there must not be any kind of cross-purpose where titles, groups or specialty exit. Each member must have the skills to carry any task.
+
+With scrum, you donot have to yell at people to become self-organing and self-motivated. This must come from within. Just the thought of imposing it on others kill what you want to do.
+
+Transcendce, of course, is a critcal element but it is just one of the elements of a three legged stool.
+Just as critical and least celebrated is the freedom to do your work the way you think is the best. Yes, there must be autonomy- one of the main concepts in scrum.
+(Getting to decide how you want to do your job to meet the goals set by those leading you)
+
+### WASTE IS A CRIME 
+"Waste is a crime against society more than a business loss."-Unkown.
+At the heart of scrum is rythm. Humans are creatures of habit, we seek rythm.
+We have to get rid of any form of waste. Waste that comes from unreasonableness, inconsistencies and outcomes. We can tackle this by using the PDCA approach described by Deming.
+We plan to avoid unreasonableness. We do to avoid waste that come as a result of inconsistencies. We have to check to  avoid waste the emerge form outcomes. Finally, we act, that is having the motivation and will to carry on with the above.
+
+###### DO ONE THNG AT A TIME
+Multitasking is painful and at the same time wasteful in itself. When we multitask, our brains has to do a lot of work to deal with context switching and we lose focus. Multitasking deceives us into thinking we are doing more whiles in reality we are doing less work and spending more time switching between task and reorganizing our focus.
+With scrum, driving each project to done minimizes the cost of context switching. Doing one thing exclusively before moving on to another saves a little more than half the time. **Concenrate fully on one thing at a time.**
+
+
+###### HALF DONE ISN'T DONE AT ALL
+With each  sprint, the teams tries to get the a number do task to done- completed.
+If at the end of a sprint most of the task is half-done, then you're worse off than if you had not started at all. It means time and energy has been expended not to get something valuable. All "work-in progress" or half-built task has to be minimized.
+
+###### DO IT RIGHT FOR THE FIRST TIME
+Whenever a problem or a bug is created or observed, make sure you solve it before moving to any other thing. (The right moment to fix a bug is now and not after the facts)
+**Fixing a bug the day it was created takes an hour, but solving it three weeks later would take twenty-four hours to  fix.**
+Adopt testing and fixing codes on the same day.
+
+###### WORKING TOO HARD MAKES MORE WORK
+Working too long gets less done. Working late is not a sign of commitment, instead it is a sign of failure. People who work long hours start making mistakes, taking  more effort to fix than to create.
+
+Always choose the smoothest way to get things done. If you start thinking of work in terms of discipline and flow, you will start to acheive amazing results.
+
+
+
+
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
 
