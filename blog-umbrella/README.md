@@ -30,7 +30,7 @@ As we inspect, we will also want to do changes as and when they are noted. This 
 > 
 > self-organizing  and rapidly improving both speed and quality of work.
 
-
+&nbsp;
 
 CHAPTER TWO
 
@@ -73,7 +73,7 @@ We seek to acheive hyperproductivity as teams collaborate and work on a project.
 
 ###### **✨We can be better. We can be great. We just have to practice✨**
 
-
+&nbsp;
 CHAPTER THREE
 #### TEAMS 
 Focusing on individuals is a big mistake. Intuitively, we all would want to choose best individuals, but we can consider to choose best performers who get the job done in the shortest time possible and at the same time faster.
@@ -99,7 +99,11 @@ Transcendce, of course, is a critcal element but it is just one of the elements 
 Just as critical and least celebrated is the freedom to do your work the way you think is the best. Yes, there must be autonomy- one of the main concepts in scrum.
 (Getting to decide how you want to do your job to meet the goals set by those leading you)
 
+
+
+&nbsp;
 CHAPTER FOUR
+&nbsp;
 ### TIME 
 Time limits what we can do and what we can acheive as humans. We are bad at giving estimates for how long something is going to take. At the core of scrum is an idea practice known as Sprint.
 
