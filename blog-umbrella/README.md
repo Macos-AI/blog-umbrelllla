@@ -197,11 +197,16 @@ Another round of card is displayed to get the estimate.
 
 #####  Have stories, but not task
 Humans have a soft spot for stories and narratives. Scrum presents this in its workflow. The first thing to think about is the character or role of the application.
+
 > Who is going to use the application?
->What we want done in the first place? This is excatly where we start and stop?
+> 
+>What we want done in the first place? 
+>
+>This is excatly where we start and stop?
 >
 > **We will also want to think of motivation.**
 > Why does this character wants this particular feature in the application?
+> 
 > How is it going to serve and delight this customer?
 
 Define the character, role or person going to use what you are building.Know their dislikes, likes, passion, enthusiasm, fustration and joy. Understand  thier motivation.
