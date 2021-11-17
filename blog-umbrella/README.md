@@ -168,6 +168,59 @@ Always choose the smoothest way to get things done. If you start thinking of wor
 
 
 
+CHAPTER SIX
+### Plan Reality, not Fantasy
+Planning is more seductive, so alluring that panning itself becomes more important than the actual plan. And the paln becomes more important than reality.
+Do first, what will bring the most value to the project. Prioritize the work.
+Refine the plan throught the project rather than upfront. Plan just enought detail to deliver the next increament of value and estimate the remiander of the project in large chunks.
+In Scrum, at the end of each project iteration (Sprint) you should have something of value to demostrate, touch and feel. This should be what a customer can intreract with.
+
+- **Figure out the most important thing and work on those things first.** 
+- **Organize a list of task by value**
+- **Figure out just how much effort, time and money the project will take.**
+With finding out how much effort a task requires, we can use the fibonacci sequence of numbers to calculate the task size which permits us to give an which is should not be 100% accurate. 
+This estimate should be done in a group as it will give us a far more accurate estimate than we could come up with.
+
+##### PLANNING POKER
+With this method, it is a way of gathering estimates that is fairly quicker and accurate.
+
+###### PLAYING THE GAME
+Each person on the team has  a deck of cards with fibonacci numbers written on them.Everyone pulls a card they think represents the right amount of effort and places it face down on the table.
+> It not best to have a different group that deals with estimates of tasks. As the people doing the work knows how long and howmuch effort is required to complete the work.
+
+At the same time everyone shows the number on the card and the average of the numbers are taken as the estimate of the task.
+When there a three cards in-between card, the person with the lowest card explains why he thinks the task on board requires a little effort to get it completed.
+The member with the largest number also, explains why he thinks the work requires that much effort to complete.
+Another round of card is displayed to get the estimate.
+
+#####  Have stories, but not task
+Humans have a soft spot for stories and narratives. Scrum presents this in its workflow. The first thing to think about is the character or role of the application.
+> Who is going to use the application?
+>What we want done in the first place? This is excatly where we start and stop?
+>
+> **We will also want to think of motivation.**
+> Why does this character wants this particular feature in the application?
+> How is it going to serve and delight this customer?
+
+Define the character, role or person going to use what you are building.Know their dislikes, likes, passion, enthusiasm, fustration and joy. Understand  thier motivation.
+
+#### Writing stories
+"As a customer, I want to view and make changes to my user profile"
+"As an admin, I want to a prove and deactivate users"
+These stories should be actionable enough, without the writter describing 
+the story. 
+
+###### Know your velocity
+At the end of the sprint, the team needs to count the task that were completed, total the points that they were estimated at and that point will tell you how that team is going interms of its velocity.
+Once you know the velocity, then you can answer what thinngs are keeping the team from accelarating?
+***Note: Moving those impediments is the key to accelerating the velocity of the team.**
+
+CHAPTER SEVEN
+### HAPPINESS
+
+
+
+
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
