@@ -205,6 +205,7 @@ Humans have a soft spot for stories and narratives. Scrum presents this in its w
 >This is excatly where we start and stop?
 >
 > **We will also want to think of motivation.**
+> 
 > Why does this character wants this particular feature in the application?
 > 
 > How is it going to serve and delight this customer?
