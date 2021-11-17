@@ -206,6 +206,7 @@ Define the character, role or person going to use what you are building.Know the
 
 #### Writing stories
 "As a customer, I want to view and make changes to my user profile"
+
 "As an admin, I want to a prove and deactivate users"
 These stories should be actionable enough, without the writter describing 
 the story. 
@@ -213,6 +214,7 @@ the story.
 ###### Know your velocity
 At the end of the sprint, the team needs to count the task that were completed, total the points that they were estimated at and that point will tell you how that team is going interms of its velocity.
 Once you know the velocity, then you can answer what thinngs are keeping the team from accelarating?
+
 ***Note: Moving those impediments is the key to accelerating the velocity of the team.**
 
 CHAPTER SEVEN
